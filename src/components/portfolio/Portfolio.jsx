@@ -46,9 +46,6 @@ export default function portfolio() {
       case "design":
         setData(designPortfolio);
         break;
-      case "content":
-        setData(contentPortfolio);
-        break;
       default:
         setData(featuredPortfolio);
     }
