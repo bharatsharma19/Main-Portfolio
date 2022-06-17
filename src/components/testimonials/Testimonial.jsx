@@ -4,20 +4,20 @@ export default function Testimonials() {
   const data = [
     {
       id: 1,
-      name: "Abcd Wxyz",
-      title: "Senior Developer",
+      name: "Biz Stone",
+      title: "Founder",
       img:
-        "https://images.pexels.com/photos/1680172/pexels-photo-1680172.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        "https://www.oxfordfoundry.ox.ac.uk/sites/default/files/social-images/2020-05/Biz-Stone_CAA-Speakers_Web.jpg",
       icon: "assets/twitter.png",
       desc:
-        "“Keep your face always toward the sunshine—and shadows will fall behind you.”",
+        "It's fine to celebrate success but it is more important to heed the lessons of failure.",
     },
     {
       id: 2,
-      name: "Efgh Ijkl",
-      title: "Co-Founder",
+      name: "Bill Gates",
+      title: "Founder",
       img:
-        "https://images.pexels.com/photos/428321/pexels-photo-428321.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        "https://pbs.twimg.com/profile_images/1414439092373254147/JdS8yLGI_400x400.jpg",
       icon: "assets/youtube.png",
       desc:
         "“I’ve missed more than 9000 shots in my career I’ve lost almost 300 games. 26 times I’ve been trusted to take the game winning shot and missed. I’ve failed over and over and over again in my life. And that is why I succeed.”. ",
@@ -25,10 +25,10 @@ export default function Testimonials() {
     },
     {
       id: 3,
-      name: "Jklm Nopq",
+      name: "Elon Musk",
       title: "CEO",
       img:
-        "https://images.pexels.com/photos/3863793/pexels-photo-3863793.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Elon_Musk_Royal_Society_%28crop2%29.jpg/1200px-Elon_Musk_Royal_Society_%28crop2%29.jpg",
       icon: "assets/linkedin.png",
       desc:
       "“All you need is the plan, the road map, and the courage to press on to your destination.”",
