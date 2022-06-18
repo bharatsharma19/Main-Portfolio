@@ -16,16 +16,16 @@ export default function intro() {
           <h1>Bharat Sharma</h1>
           <h3>
             <Typical
-            loop={Infinity}
-            steps={[
-              'Full Stack Developer',2000,
-              'Software Developer',
-              2000,
-              'Machine Learning',
-              2000,
-              'Ethical Hacker',
-              2000
-            ]}
+              loop={Infinity}
+              steps={[
+                'Full Stack Developer', 2000,
+                'Software Developer',
+                2000,
+                'Machine Learning',
+                2000,
+                'Ethical Hacker',
+                2000
+              ]}
             />
           </h3>
         </div>

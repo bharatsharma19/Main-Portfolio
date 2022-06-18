@@ -118,6 +118,14 @@
                             font-weight: 600;
                             text-decoration: underline;
                             cursor: pointer;
+
+                            a{
+                                color: inherit;
+                            }
+
+                            &:hover{
+                                color: #2f0081;
+                            }
                         }
                     }
                 }

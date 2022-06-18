@@ -61,6 +61,16 @@
             h3 {
                 position: absolute;
                 font-size: 20px;
+
+                a{
+                    color: white;
+                    text-decoration: none;
+                    cursor: pointer;
+                }
+
+                &:hover{
+                    text-decoration: underline;
+                }
             }
 
             img {
