@@ -9,11 +9,15 @@ export default function Topbar({ menuOpen, setMenuOpen }) {
           <a href="#intro" className="logo">Bharat Sharma</a>
           <div className="itemContainer">
             <Person className="icon" />
-            <span>+91 7000192752</span>
+            <span>
+              <a href="tel:+917000192752">+91 7000192752</a>
+            </span>
           </div>
           <div className="itemContainer">
             <MailOutline classname="icon" />
-            <span> bharat8717sharma@gmail.com</span>
+            <span>
+              <a href="mailto:bharat8717sharma@gmail.com">bharat8717sharma@gmail.com</a>
+            </span>
           </div>
         </div>
         <div className="right">

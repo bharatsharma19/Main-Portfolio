@@ -7,7 +7,7 @@ export default function intro() {
     <div className='intro' id='intro'>
       <div className="left">
         <div className="imgContainer">
-          <img src="assets/me.png" alt="" />
+          <img src="assets/me.png" alt="Bharat Sharma" />
         </div>
       </div>
       <div className="right">
@@ -30,7 +30,7 @@ export default function intro() {
           </h3>
         </div>
         <a href="#portfolio">
-          <img src="assets/down.png" alt="" />
+          <img src="assets/down.png" alt="Skip" />
         </a>
       </div>
     </div>

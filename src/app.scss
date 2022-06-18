@@ -21,4 +21,11 @@
             scroll-snap-align: start;
         }
     }
+
+    .end{
+        width: 100%;
+        bottom: 0;
+        height: 64px;
+        background-color: blue;
+    }
 }

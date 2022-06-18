@@ -33,7 +33,7 @@
                 align-items: center;
                 margin-left: 24px;
 
-                @include mobile{
+                @include mobile {
                     display: none;
                 }
 
@@ -43,8 +43,12 @@
                 }
 
                 span {
-                    font-size: 18px;
-                    font-weight: 500;
+                    a {
+                        text-decoration: none;
+                        color: $mainColor;
+                        font-size: 18px;
+                        font-weight: 500;
+                    }
                 }
             }
         }
@@ -69,20 +73,22 @@
         }
     }
 
-    &.active{
+    &.active {
         background-color: $mainColor;
         color: white;
 
-        .hamburger{
-            span{
-                &:first-child{
+        .hamburger {
+            span {
+                &:first-child {
                     background-color: white;
                     transform: rotate(45deg);
                 }
-                &:nth-child(2){
+
+                &:nth-child(2) {
                     opacity: 0;
                 }
-                &:last-child{
+
+                &:last-child {
                     background-color: white;
                     transform: rotate(-45deg);
                 }

@@ -41,5 +41,15 @@
                 color: aqua;
             }
         }
+
+        p {
+            a {
+                margin: 12px;
+
+                svg {
+                    fill: white;
+                }
+            }
+        }
     }
 }

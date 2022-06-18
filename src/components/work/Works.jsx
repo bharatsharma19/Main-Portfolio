@@ -65,7 +65,7 @@ export default function Works() {
                   <h2>{d.title}</h2>
                   <p>{d.desc}</p>
                   <span>
-                    <a href="">Projects
+                    <a href="https://github.com/Bharatsharma19" target="_blank">Projects
                     </a>
                   </span>
                 </div>
@@ -73,7 +73,7 @@ export default function Works() {
               <div className="right">
                 <img
                   src="https://99designs-blog.imgix.net/blog/wp-content/uploads/2018/10/attachment_100040756-e1538485934255.jpeg?auto=format&q=60&fit=max&w=930"
-                  alt=""
+                  alt="Image"
                 />
               </div>
             </div>
@@ -83,13 +83,13 @@ export default function Works() {
       <img
         src="assets/arrow.png"
         className="arrow left"
-        alt=""
+        alt="Left Arrow"
         onClick={() => handleClick("left")}
       />
       <img
         src="assets/arrow.png"
         className="arrow right"
-        alt=""
+        alt="Right Arrow"
         onClick={() => handleClick()}
       />
     </div>
