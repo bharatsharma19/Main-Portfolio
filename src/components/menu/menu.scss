@@ -48,6 +48,10 @@
 
                 svg {
                     fill: white;
+
+                    &:hover {
+                        fill: aquamarine;
+                    }
                 }
             }
         }

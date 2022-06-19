@@ -5,11 +5,14 @@ import Works from "./components/work/Works"
 import Testimonials from "./components/testimonials/Testimonial"
 import Contact from "./components/contact/Contact"
 import "./app.scss"
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import Menu from "./components/menu/Menu"
+
 
 function App() {
   const [menuOpen, setMenuOpen] = useState(false)
+
+
   return (
     <div className="app">
       <Topbar menuOpen={menuOpen} setMenuOpen={setMenuOpen} />
@@ -22,7 +25,6 @@ function App() {
         <Contact />
       </div>
     </div>
-
   );
 }
 
