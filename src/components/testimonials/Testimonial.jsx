@@ -7,7 +7,7 @@ export default function Testimonials() {
       name: "Biz Stone",
       title: "Founder",
       img:
-        "https://www.oxfordfoundry.ox.ac.uk/sites/default/files/social-images/2020-05/Biz-Stone_CAA-Speakers_Web.jpg",
+        "https://assets.entrepreneur.com/content/3x2/2000/20150224165308-jeff-bezos-amazon.jpeg",
       icon: "assets/twitter.png",
       desc:
         "It's fine to celebrate success but it is more important to heed the lessons of failure.",
