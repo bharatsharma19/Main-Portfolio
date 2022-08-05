@@ -7,7 +7,7 @@ export default function Testimonials() {
       name: "Biz Stone",
       title: "Founder",
       img:
-        "https://assets.entrepreneur.com/content/3x2/2000/20150224165308-jeff-bezos-amazon.jpeg",
+        "assets/biz.jpg",
       icon: "assets/twitter.png",
       desc:
         "It's fine to celebrate success but it is more important to heed the lessons of failure.",
@@ -17,7 +17,7 @@ export default function Testimonials() {
       name: "Bill Gates",
       title: "Founder",
       img:
-        "https://pbs.twimg.com/profile_images/1414439092373254147/JdS8yLGI_400x400.jpg",
+        "assets/bill.jpg",
       icon: "assets/youtube.png",
       desc:
         "“I’ve missed more than 9000 shots in my career I’ve lost almost 300 games. 26 times I’ve been trusted to take the game winning shot and missed. I’ve failed over and over and over again in my life. And that is why I succeed.”. ",
@@ -28,7 +28,7 @@ export default function Testimonials() {
       name: "Elon Musk",
       title: "CEO",
       img:
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Elon_Musk_Royal_Society_%28crop2%29.jpg/1200px-Elon_Musk_Royal_Society_%28crop2%29.jpg",
+        "assets/elon.jpg",
       icon: "assets/linkedin.png",
       desc:
       "“All you need is the plan, the road map, and the courage to press on to your destination.”",
