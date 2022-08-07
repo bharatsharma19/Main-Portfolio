@@ -11,7 +11,7 @@ export default function Works() {
       desc:
         "Development, which is required for each business whether it is small scale or large scale industry. ",
       img:
-        "https://github.com/Bharatsharma19",
+        "https://bharatportfolio.netlify.app/",
     },
     {
       id: "2",
@@ -29,7 +29,7 @@ export default function Works() {
       desc:
         "As we can see, ML is one of the fastest developing field and very helpful while creation of projects.",
       img:
-        "https://github.com/Bharatsharma19",
+        "https://github.com/Bharatsharma19/Machine-Learning",
     },
     {
       id: "4",

@@ -13,15 +13,15 @@ export const featuredPortfolio = [
   },
   {
     id: 3,
-    title: "Analog Clock",
-    img: "https://img.muji.net/img/item/4547315915224_1260.jpg",
-    link: "https://analog-clock.bharatsharma19.repl.co/",
+    title: "News App",
+    img: "https://thumbs.dreamstime.com/b/news-newspapers-folded-stacked-word-wooden-block-puzzle-dice-concept-newspaper-media-press-release-42301371.jpg",
+    link: "https://news-app-using-react-js-bharatsharma.vercel.app/",
   },
   {
     id: 4,
-    title: "Tic Tac Toe",
-    img: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Tic_tac_toe.svg/1200px-Tic_tac_toe.svg.png",
-    link: "https://tic-tac-toe.bharatsharma19.repl.co/",
+    title: "Word Counter App",
+    img: "https://4.bp.blogspot.com/-domFSoi9ekQ/UqH8IudZCQI/AAAAAAAANp0/mkKfvK_vhIU/s6600/Free-Fast-Online-Word-And-Character-Counter-Tool.png",
+    link: "https://word-counter-bharatsharma.vercel.app/",
   },
   {
     id: 5,
@@ -127,5 +127,29 @@ export const designPortfolio = [
     title: "Notification App",
     img: "https://repository-images.githubusercontent.com/319456369/53412e80-414d-11eb-91d6-b89ae5d419d2",
     link: "https://notification-vert.vercel.app/",
+  },
+  {
+    id: 3,
+    title: "Analog Clock",
+    img: "https://img.muji.net/img/item/4547315915224_1260.jpg",
+    link: "https://analog-clock.bharatsharma19.repl.co/",
+  },
+  {
+    id: 4,
+    title: "Tic Tac Toe",
+    img: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Tic_tac_toe.svg/1200px-Tic_tac_toe.svg.png",
+    link: "https://tic-tac-toe.bharatsharma19.repl.co/",
+  },
+  {
+    id: 5,
+    title: "Portfolio Design",
+    img: "https://blog-frontend.envato.com/cdn-cgi/image/width=1200,quality=75,format=auto/uploads/2020/06/SOC101_Portfolio_Guide.png",
+    link: "https://bharatportfolio.netlify.app/",
+  },
+  {
+    id: 6,
+    title: "ML Based Website",
+    img: "https://y6b8k9e7.stackpathcdn.com/wp-content/uploads/2021/02/future-artificial-intelligence-robot-cyborg.jpg",
+    link: "https://bharatsharma19.github.io/Bank-Note-Authenticator-App/",
   },
 ];
